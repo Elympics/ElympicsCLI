@@ -1,1 +1,1 @@
-# homebrew-elympics
+# ElympicsCLI
